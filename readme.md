@@ -19,5 +19,5 @@ Chapter 14| ptontoa.m<br />resolve.m<br />simpleserver.m<br />simpleclient
 Chapter 20| basics.m<br />mutex.m
 Chapter 23| dumpem.m
 
-##Copying
-**CC BY-NC-SA 3.0**
+##License
+**MIT**
